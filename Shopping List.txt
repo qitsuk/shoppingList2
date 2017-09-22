@@ -1,4 +1,9 @@
 Things we need for the fake party, that will never happen:
+<<<<<<< HEAD
 we need people!!
 DET VIRKER!!!
 noget
+=======
+we need people - A lot of them! And Cake!!!
+We also need large amounts of booze!
+>>>>>>> 3496d6b7d24af0d59024046b9d43706963ae0239
